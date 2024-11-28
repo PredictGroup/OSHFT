@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|c:\\users\\andrey\\documents\\netprojectstest\\oshft_quik_redis\\oshft_q_r\\redis\\minstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|solutionrelative:oshft_q_r\\redis\\minstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\oshft_q_r\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|solutionrelative:oshft_q_r\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\oshft_q_r\\config\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|solutionrelative:oshft_q_r\\config\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|c:\\users\\andrey\\documents\\netprojectstest\\oshft_quik_redis\\oshft_q_r\\marketdata\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|solutionrelative:oshft_q_r\\marketdata\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\oshft_q_r\\redis\\shorttraderexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|solutionrelative:oshft_q_r\\redis\\shorttraderexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|c:\\users\\andrey\\documents\\netprojectstest\\oshft_quik_redis\\oshft_q_r\\dataqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|solutionrelative:oshft_q_r\\dataqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|c:\\users\\andrey\\documents\\netprojectstest\\oshft_quik_redis\\oshft_q_r\\oshft_q_rmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|solutionrelative:oshft_q_r\\oshft_q_rmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|c:\\users\\andrey\\documents\\netprojectstest\\oshft_quik_redis\\oshft_q_r\\oshft_q_rmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|solutionrelative:oshft_q_r\\oshft_q_rmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\oshft_q_r\\redis\\pandasexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|solutionrelative:oshft_q_r\\redis\\pandasexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\oshft_q_r\\redis\\redisexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79220F0F-C872-41D1-AC3E-910CBDCFCDD8}|OSHFT_Q_R\\OSHFT_Q_R.csproj|solutionrelative:oshft_q_r\\redis\\redisexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\MarketData\\DataManager.cs",
+              "RelativeDocumentMoniker": "OSHFT_Q_R\\MarketData\\DataManager.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\MarketData\\DataManager.cs",
+              "RelativeToolTip": "OSHFT_Q_R\\MarketData\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:33:00.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\DataQueue.cs",
+              "RelativeDocumentMoniker": "OSHFT_Q_R\\DataQueue.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\DataQueue.cs",
+              "RelativeToolTip": "OSHFT_Q_R\\DataQueue.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwJ8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:27:19.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OSHFT_Q_RMain.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\OSHFT_Q_RMain.cs",
+              "RelativeDocumentMoniker": "OSHFT_Q_R\\OSHFT_Q_RMain.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\OSHFT_Q_RMain.cs",
+              "RelativeToolTip": "OSHFT_Q_R\\OSHFT_Q_RMain.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:25:33.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShortTraderExchange.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Redis\\ShortTraderExchange.cs",
+              "RelativeDocumentMoniker": "OSHFT_Q_R\\Redis\\ShortTraderExchange.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Redis\\ShortTraderExchange.cs",
+              "RelativeToolTip": "OSHFT_Q_R\\Redis\\ShortTraderExchange.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:24:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Config\\Config.cs",
+              "RelativeDocumentMoniker": "OSHFT_Q_R\\Config\\Config.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Config\\Config.cs",
+              "RelativeToolTip": "OSHFT_Q_R\\Config\\Config.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:24:29.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Config\\UserSettings.cs",
+              "RelativeDocumentMoniker": "OSHFT_Q_R\\Config\\UserSettings.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Config\\UserSettings.cs",
+              "RelativeToolTip": "OSHFT_Q_R\\Config\\UserSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:24:29.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Redis\\MinStrategy.cs",
+              "RelativeDocumentMoniker": "OSHFT_Q_R\\Redis\\MinStrategy.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Redis\\MinStrategy.cs",
+              "RelativeToolTip": "OSHFT_Q_R\\Redis\\MinStrategy.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAowLEDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:24:29.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OSHFT_Q_RMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\OSHFT_Q_RMain.cs",
+              "RelativeDocumentMoniker": "OSHFT_Q_R\\OSHFT_Q_RMain.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\OSHFT_Q_RMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OSHFT_Q_R\\OSHFT_Q_RMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:24:39.337Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RedisExchange.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Redis\\RedisExchange.cs",
+              "RelativeDocumentMoniker": "OSHFT_Q_R\\Redis\\RedisExchange.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Redis\\RedisExchange.cs",
+              "RelativeToolTip": "OSHFT_Q_R\\Redis\\RedisExchange.cs",
+              "ViewState": "AQIAAOMBAAAAAAAAAAAUwPcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:24:29.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PandasExchange.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Redis\\PandasExchange.cs",
+              "RelativeDocumentMoniker": "OSHFT_Q_R\\Redis\\PandasExchange.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Documents\\NetProjectsTest\\oshft_quik_redis\\OSHFT_Q_R\\Redis\\PandasExchange.cs",
+              "RelativeToolTip": "OSHFT_Q_R\\Redis\\PandasExchange.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAADgvxkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:24:29.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
